@@ -1,0 +1,248 @@
+   /* header*/
+   
+   header {
+       background-image: url('./images/bg1.PNG');
+       height: 40vh;
+       width: 100%;
+   }
+   /* navbar*/
+   
+   nav li a {
+       font-weight: bold;
+       color: navy !important;
+       font-size: 14px;
+       padding-left: 12px;
+       font-weight: bold !important;
+       width: 100px;
+       text-align: center;
+   }
+   
+   nav li a:hover {
+       color: white !important;
+       border-radius: 100px!important;
+       background-color: navy !important;
+   }
+   
+   .navbar-brand:hover {
+       border-radius: 100px!important;
+       background-color: transparent !important;
+       cursor: pointer;
+   }
+   
+   .signupbtn {
+       border-radius: 100px!important;
+       width: 100px;
+       border: 0;
+       font-weight: bold !important;
+   }
+   
+   .signinbtn {
+       border-radius: 100px!important;
+       width: 100px;
+       background: #fff !important;
+       border: 2px solid rgb(241, 54, 54) !important;
+       color: rgb(241, 54, 54) !important;
+       font-weight: bold !important;
+   }
+   
+   .signinbtn:hover {
+       border-radius: 100px!important;
+       width: 100px;
+       color: #fff !important;
+       border: 2px solid rgb(241, 54, 54) !important;
+       background-color: rgb(241, 54, 54) !important;
+       font-weight: bold !important;
+   }
+   
+   .getstartedbtn {
+       border-radius: 100px !important;
+       width: 120px;
+       background: rgb(233, 142, 7) !important;
+       color: #fff !important;
+       box-shadow: 0px 3px 3px rgb(248, 155, 16);
+   }
+   
+   .getstartedbtn:hover {
+       background: 0px 3px 3px rgb(70, 46, 11) !important;
+       box-shadow: 0px 3px 3px rgb(90, 59, 11);
+       width: 200px;
+   }
+   /* second part header */
+   
+   h2 {
+       font-size: 40px !important;
+       color: rgb(3, 3, 56) !important;
+       font-weight: bolder !important;
+   }
+   
+   .img1 {
+       width: 60%;
+       margin-left: 20%;
+   }
+   /* Section */
+   
+   section {
+       margin-top: 590px;
+       background-color: whitesmoke !important;
+   }
+   /* card */
+   
+   .card-img-top {
+       width: 60% !important;
+       margin: auto;
+       margin-top: 10px !important;
+   }
+   
+   .card-title {
+       font-weight: bold;
+       font-size: 20px !important;
+   }
+   
+   .card-text {
+       color: grey !important;
+   }
+   
+   .card {
+       background-color: white !important;
+       border-radius: 15px !important;
+   }
+   
+   .mycard {
+       box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.2);
+   }
+   
+   .fa-arrow-right {
+       font-weight: normal !important;
+       font-stretch: narrower !important;
+       width: 200px !important;
+   }
+   /* section2 */
+   
+   .section2,
+   .blogpost {
+       background: #fff;
+   }
+   
+   .section3 {
+       background-image: url('./images/section3bg.PNG');
+   }
+   
+   .section4,
+   .blogpost {
+       background-color: #fff;
+   }
+   
+   .imgabout {
+       float: right;
+   }
+   
+   .ourcustomers {
+       background-image: url('./images/ourcustormersbg.PNG');
+       padding: auto;
+   }
+   
+   .ourcusomers {
+       margin-left: 5px !important;
+       margin: auto;
+   }
+   
+   .ourcusomers img {
+       width: 100px;
+       height: 30px;
+       text-align: center;
+   }
+   
+   .ourcusomers2 img {
+       width: 100px;
+       height: 30px;
+       margin-left: 30%;
+   }
+   
+   .card-imgp {
+       border-radius: 15px !important;
+       box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.2);
+   }
+   
+   .subtitle {
+       font-weight: bold;
+       font-size: 10px;
+   }
+   
+   .mycircle i {
+       color: rgb(255, 0, 85) !important;
+   }
+   
+   .mycards {
+       background-image: url('./images/newletterbg.PNG');
+       width: 80% !important;
+       border-radius: 20px 20px 20px 20px !important;
+       margin: auto;
+   }
+   
+   input {
+       border-radius: 30px;
+       width: 80%;
+       height: 50px;
+       border: none;
+       padding: 5px;
+       padding-left: 20px;
+   }
+   
+   .mycardbtn {
+       border-radius: 100px !important;
+       width: 120px;
+       background: rgb(233, 142, 7) !important;
+       color: #fff !important;
+       box-shadow: 0px 3px 3px rgb(248, 155, 16);
+       margin-left: 320px;
+       margin-top: 4px;
+       position: absolute;
+   }
+   
+   .mycardbtn:hover {
+       border-radius: 100px !important;
+       width: 200px;
+       background: rgb(233, 142, 7) !important;
+       color: #fff !important;
+       box-shadow: 0px 3px 3px rgb(248, 155, 16);
+   }
+   
+   footer {
+       background-image: url('./images/footercolor.PNG');
+   }
+   
+   li {
+       text-decoration: none;
+       list-style-type: none;
+       margin: auto;
+       text-align: justify;
+   }
+   
+   a {
+       color: rgb(5, 5, 75) !important;
+       text-align: justify;
+   }
+   
+   h5 {
+       padding-left: 40px;
+       color: rgb(5, 5, 75);
+   }
+   
+   .lastfooter {
+       background-image: url('./images/ourcustormersbg.PNG');
+   }
+   
+   .lastul {
+       float: right;
+   }
+   
+   .lastul li {
+       display: inline;
+   }
+   
+   .floatimg {
+       position: static;
+       float: right;
+       margin: 0 0 100px 0;
+       cursor: pointer;
+   }
